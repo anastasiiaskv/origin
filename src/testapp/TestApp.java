@@ -25,7 +25,7 @@ SimpleCalc obj = new SimpleCalc ( a,  b);
 		//obj.getSum(); 
 //                        System.out.println(obj.print());
 System.out.println("a+b="+(obj.getSum()));
-//System.out.println("a/b="+(sc.getDiv()));
+System.out.println("a*b="+(obj.Mnozh()));
 }
 }
 

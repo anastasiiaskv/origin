@@ -21,4 +21,10 @@ this.b=p2;
 public double getSum() {
     return this.a+this.b;
 }
+public double Mnozh() {
+    return this.a*this.b;
+}
+public double Dilen() {
+    return this.a/this.b;
+}
 }

@@ -24,4 +24,7 @@ public double getSum() {
 public double Mnozh() {
     return this.a*this.b;
 }
+public double Dilen() {
+    return this.a/this.b;
+}
 }

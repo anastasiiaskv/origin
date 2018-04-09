@@ -27,4 +27,7 @@ public double Mnozh() {
 public double Dilen() {
     return this.a/this.b;
 }
+public double Minus() {
+    return this.a-this.b;
+}
 }

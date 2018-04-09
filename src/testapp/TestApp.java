@@ -25,11 +25,13 @@ SimpleCalc obj = new SimpleCalc ( a,  b);
 		//obj.getSum(); 
 //                        System.out.println(obj.print());
 System.out.println("a+b="+(obj.getSum()));
-<<<<<<< HEAD
 System.out.println("a*b="+(obj.Mnozh()));
-=======
 System.out.println("a/b="+(obj.Dilen()));
->>>>>>> conflictTest
+System.out.println("a-b="+(obj.Minus()));
+float c=10;
+float d=(float) 15.5;
+System.out.println("c+d="+(c+d));
+
 }
 }
 

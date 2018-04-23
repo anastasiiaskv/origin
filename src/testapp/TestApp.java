@@ -29,13 +29,13 @@ System.out.println("a+b="+(obj.getSum()));
 System.out.println("a*b="+(obj.Mnozh()));
 System.out.println("a/b="+(obj.Dilen()));
 System.out.println("a-b="+(obj.Minus()));
-//System.out.println("a-b="+(obj.Ostatok()));
+System.out.println("a-b="+(obj.Ostatok()));
 System.out.println("Koren` s 81 = " + (sqrt(81)));
 float c=10;
 float d=(float) 15.5;
-//float e=++d;
+float e=++d;
 System.out.println("c+d="+(c+d));
-//System.out.println("e="+(e));
+System.out.println("e="+(e));
 System.out.println("GIT test programming");
 //System.out.println("Errors");
 }

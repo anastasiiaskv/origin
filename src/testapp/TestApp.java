@@ -28,13 +28,8 @@ SimpleCalc obj = new SimpleCalc ( a,  b);
 System.out.println("a+b="+(obj.getSum()));
 System.out.println("a*b="+(obj.Mnozh()));
 System.out.println("a/b="+(obj.Dilen()));
-<<<<<<< HEAD
-System.out.println("a-b="+(obj.Ostatok()));
-=======
-System.out.println("a%b="+(obj.Minus()));
+System.out.println("a-b="+(obj.Minus()));
 System.out.println("Koren` s 81 = " + (sqrt(81)));
-
->>>>>>> newBr
 float c=10;
 float d=(float) 15.5;
 float e=++d;

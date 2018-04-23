@@ -36,8 +36,7 @@ float d=(float) 15.5;
 float e=++d;
 System.out.println("c+d="+(c+d));
 System.out.println("e="+(e));
-System.out.println("Errors");
-
+System.out.println("GIT test programming");
 }
 }
 

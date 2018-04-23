@@ -5,6 +5,7 @@
  */
 package testapp;
 
+import static java.lang.Math.sqrt;
 import java.util.Scanner;
 
 
@@ -27,13 +28,21 @@ SimpleCalc obj = new SimpleCalc ( a,  b);
 System.out.println("a+b="+(obj.getSum()));
 System.out.println("a*b="+(obj.Mnozh()));
 System.out.println("a/b="+(obj.Dilen()));
+<<<<<<< HEAD
 System.out.println("a-b="+(obj.Ostatok()));
+=======
+System.out.println("a%b="+(obj.Minus()));
+System.out.println("Koren` s 81 = " + (sqrt(81)));
+
+>>>>>>> newBr
 float c=10;
 float d=(float) 15.5;
+float e=++d;
 System.out.println("c+d="+(c+d));
+System.out.println("e="+(e));
 System.out.println("Hello world");
+System.out.println("GIT test application");
 System.out.println("Errors");
-System.out.println("There are no errors");
 }
 }
 

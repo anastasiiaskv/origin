@@ -31,12 +31,10 @@ System.out.println("a-b="+(obj.Minus()));
 float c=10;
 float d=(float) 15.5;
 System.out.println("c+d="+(c+d));
-<<<<<<< HEAD
+
 System.out.println("GIT test application");
-=======
-System.out.println("GIT test programming"
-        + "application");
->>>>>>> whitespace
+System.out.println("GIT test programming");
+
 
 }
 }
